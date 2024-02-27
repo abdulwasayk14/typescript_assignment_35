@@ -1,1 +1,1 @@
-# typescript_assignment_35
+# typescript_assignment_35_Animals
